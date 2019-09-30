@@ -6,8 +6,6 @@ export const Container = styled.div`
   height: 100vh;
   align-items: center;
   padding: 30px;
-  /* background: #333;
-  color: #fff; */
 
   div {
     margin: 0 auto;
@@ -23,4 +21,5 @@ export const Logout = styled.button`
   border: 0;
   padding: 10px;
   margin-top: 10px;
+  color: #fff;
 `;
