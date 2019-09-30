@@ -22,4 +22,5 @@ export const Logout = styled.button`
   padding: 10px;
   margin-top: 10px;
   color: #fff;
+  font-weight: bold;
 `;
